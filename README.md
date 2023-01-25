@@ -5,3 +5,5 @@ Bet365(http://www.bet365.com/).
 
 The project started from reading all the web scraped data sources that are stored in S3 bucket, processed the data, built, trained and deployed our machine learning model on SageMaker, then built an API taking HTTP POST requests using Lambda function and API gateway
 
+## ETL Pipeline
+![alt text]()
